@@ -1,0 +1,7 @@
+/Lib
+/Scripts
+/Include
+/Test
+/__pycache__
+*.cfg
+main.py
